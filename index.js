@@ -1,0 +1,1 @@
+let fs=require('fs');fs.writeFileSync('arch',fs.readdirSync('mods').join('\n'))
