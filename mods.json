@@ -1,5 +1,5 @@
 {
-	"architect": {
+	"arch": {
 		"fabric-api": {
 			"sources": [
 				"https://cdn.modrinth.com/data/P7dR8mSH/versions/YblXfKtI/fabric-api-0.91.0%2B1.20.1.jar",
