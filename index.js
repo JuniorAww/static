@@ -1,4 +1,5 @@
-require("./mods.json")
+const mods = JSON.stringify(require("./mods.json"), null, 2)
+require('fs').writeFileSync("./mods.json", mods);
 return;
 const fs=require('fs');
 for(let name of fs.readdirSync('mods')) {
