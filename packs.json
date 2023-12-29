@@ -1,0 +1,19 @@
+{
+	"arch": {
+		"DandelionX": {
+			"sources": [
+				"https://raw.githubusercontent.com/JuniorAww/static/main/resoursepacks/Dandelion%2BX%2B1.20.1.zip"
+			]
+		},
+		"Martini": {
+			"sources": [
+				"https://raw.githubusercontent.com/JuniorAww/static/main/resoursepacks/martini-cit.zip"
+			]
+		},
+		"Overgrown-Flowery-GUI": {
+			"sources": [
+				"https://raw.githubusercontent.com/JuniorAww/static/main/resoursepacks/overgrown-flowery-gui-e2910.zip"
+			]
+		}
+	}
+}
