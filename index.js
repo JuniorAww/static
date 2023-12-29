@@ -1,3 +1,5 @@
+require("./mods.json")
+return;
 const fs=require('fs');
 for(let name of fs.readdirSync('mods')) {
 	const absolute = "./mods/" + name

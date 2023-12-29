@@ -24,7 +24,7 @@
 		},
 		"clothconfig": {
 			"sources": [
-				"https://cdn.modrinth.com/data/9s6osm5g/versions/J3FLptsi/cloth-config-11.1.118-fabric.jar"
+				"https://cdn.modrinth.com/data/9s6osm5g/versions/J3FLptsi/cloth-config-11.1.118-fabric.jar",
 				"http://rezane.space/mods/cloth-config-11.1.106-fabric.jar"
 			]
 		},
