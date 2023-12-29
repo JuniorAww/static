@@ -1,4 +1,4 @@
-const mods = JSON.stringify(require("./mods.json"), null, 2)
+const mods = JSON.stringify(require("./mods.json"), null, 4)
 require('fs').writeFileSync("./mods.json", mods);
 return;
 const fs=require('fs');
