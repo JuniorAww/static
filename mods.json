@@ -12,10 +12,10 @@
                 "http://rezane.space/mods/lithium-fabric-mc1.20.1-0.11.2.jar"
             ]
         },
-        "plasmovoice": {
+        "simple-voice-chat": {
             "sources": [
-                "https://cdn.modrinth.com/data/1bZhdhsH/versions/vyznIjzL/plasmovoice-fabric-1.20.1-2.0.7.jar",
-                "http://rezane.space/mods/plasmovoice-fabric-1.20.1-2.0.7.jar"
+                "https://cdn.modrinth.com/data/9eGKb6K1/versions/r5GmfR2B/voicechat-fabric-1.20.1-2.4.32.jar",
+                "http://rezane.space/mods/voicechat-fabric-1.20.1-2.4.32.jar"
             ]
         },
         "soundphysics": {
