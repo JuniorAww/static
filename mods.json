@@ -14,7 +14,7 @@
         },
         "plasmovoice": {
             "sources": [
-                "https://cdn.modrinth.com/data/WRONG1bZhdhsH/versions/vyznIjzL/plasmovoice-fabric-1.20.1-2.0.7.jar",
+                "https://cdn.modrinth.com/data/1bZhdhsH/versions/vyznIjzL/plasmovoice-fabric-1.20.1-2.0.7.jar",
                 "http://rezane.space/mods/plasmovoice-fabric-1.20.1-2.0.7.jar"
             ]
         },
@@ -25,7 +25,7 @@
         },
         "clothconfig": {
             "sources": [
-                "https://cdn.modrinth.com/data/ERROR__9s6osm5g/versions/J3FLptsi/cloth-config-11.1.118-fabric.jar",
+                "https://cdn.modrinth.com/data/9s6osm5g/versions/J3FLptsi/cloth-config-11.1.118-fabric.jar",
                 "http://rezane.space/mods/cloth-config-11.1.106-fabric.jar"
             ]
         },

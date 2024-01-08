@@ -1,0 +1,7 @@
+Logging started at 2024-01-08T11:03:34.640779800Z
+[authlib-injector] [INFO] Version: 1.2.4
+[authlib-injector] [INFO] Authentication server: http://rezane.space
+[authlib-injector] [WARNING] You are using HTTP protocol, which is INSECURE! Please switch to HTTPS if possible.
+[authlib-injector] [ERROR] Unable to parse metadata: java.io.IOException: Invalid JSON
+Raw metadata:
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="icon" href="/favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Web site created using create-react-app"/><link rel="apple-touch-icon" href="/logo192.png"/><link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Inter:wght@200&family=Caveat&family=Quicksand&display=swap" rel="stylesheet"><link rel="manifest" href="/manifest.json"/><title>React App</title><script defer="defer" src="/static/js/main.3b185478.js"></script><link href="/static/css/main.6b226180.css" rel="stylesheet"></head><body style="background-color:#292633"><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>
